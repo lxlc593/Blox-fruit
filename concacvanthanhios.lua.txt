@@ -220,13 +220,7 @@ end)
   end
   })
 
-    AddButton(Tab1o, {
-     Name = "Aim Camera",
-    Callback = function()
-            
-loadstring(Game:HttpGet("https://raw.githubusercontent.com/VanThanhIOS/AlexAimBot/refs/heads/main/AimBotBanTumLum.lua.txt"))()
-            
-  end
+    
   })
 
     AddButton(Tab1o, {
