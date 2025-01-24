@@ -188,14 +188,14 @@ game:GetService("Players").LocalPlayer.Idled:connect(function()
 end)
  
 game.StarterGui:SetCore("SendNotification", {
-    Title = "Văn Thành IOS";
+    Title = "lxlc";
     Text = "Đã Bật hitbox"; -- what the text says (ofc)
     Duration = 1;
 })
 wait(1)
 game.StarterGui:SetCore("SendNotification", {
-    Title = "Văn Thành IOS";
-    Text = "YTB: @thanhdzso1"; -- what the text says (ofc)
+    Title = "lxlc";
+    Text = "YTB: @ldk"; -- what the text says (ofc)
     Duration = 1;
 })
 _G.HeadSize = 120
